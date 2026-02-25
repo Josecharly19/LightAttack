@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
-    public int health = 50; 
+    public int health = 40; 
 
     public void TakeDamage(int amount)
     {
