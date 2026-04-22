@@ -3,7 +3,7 @@ using UnityEngine;
 public class lightattack : MonoBehaviour 
 {
     [Header("Attack Settings")]
-    public float attackRange = 4f;
+    public float attackRange = 2f;
     public float attackRadius = 0.7f;
     public int damage = 10; 
     public float attackCooldown = 0.5f;
